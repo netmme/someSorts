@@ -1,5 +1,5 @@
 # someSorts
-Implémation d'algorithme de tri en python.
+Implémation d'algorithmes de tri en python.
 
 ## Version
 
