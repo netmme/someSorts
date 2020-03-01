@@ -14,6 +14,8 @@ Lancer le main. L'algorithme va tester le tri pour toutes les tailles de tableau
 
 ## A faire
 
+Bonomo sort
+
 Quicksort
 
 Ajout de version récursive
