@@ -18,6 +18,8 @@ Bonomo sort
 
 Quicksort
 
+Bubblesort
+
 Ajout de version récursive
 
 Stats <3
